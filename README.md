@@ -13,3 +13,11 @@ If all theses conditions are good for you, launch the python script like this:
 ```console
 ~$ python IMH.py
 ```
+## Dependicies 
+
+* Python 2 or Python 3 ( developed and checked with Python 2.7.15)
+* Internet connection to get the METAR file. This file is produced by the open source API : http://avwx.rest
+
+## Dependicies 
+
+You can contact me with: duclosydx@gmail.com
