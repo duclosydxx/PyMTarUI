@@ -1,1 +1,1 @@
-# PyMTarUI, a simply metar decoder made with Python and Tkinter 
+# PyMTarUI, a simply metar decoder 
