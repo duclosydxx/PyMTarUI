@@ -9,7 +9,7 @@ If that is the case, install (or check his presence) the Python module : *json*
 ~$ pip install json
 ```
 
-If all theses conditions are good for you, launch the python script like this:
+If all these conditions are good for you, launch the python script like this:
 ```console
 ~$ python IMH.py
 ```
